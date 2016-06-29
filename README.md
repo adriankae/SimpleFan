@@ -1,8 +1,11 @@
 #Simple fan 
 
+
 ## Description 
 
 A simple fan out of spare parts for hot summer days and nights.
+
+*Date: 02.06.2016 (dd/mm/yyyy)*
 
 ## Diffiuclty
 
@@ -12,7 +15,7 @@ Requires moderate soldering skills.
 
 ## Parts list
 
-- two fans 12V fans
+- two 12V fans
 - 12V power supply
 - 2 wooden bar
 - screws
@@ -22,6 +25,8 @@ Requires moderate soldering skills.
 
 
 ## Pictures
+
+
 
 ## License
 
