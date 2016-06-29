@@ -22,11 +22,11 @@ Requires moderate soldering skills.
 
 ## Circuit
 
-
+![](https://raw.githubusercontent.com/adriankae/SimpleFan/master/simpefan_schem.jpg "")
 
 ## Pictures
 
-
+![](https://raw.githubusercontent.com/adriankae/SimpleFan/master/DSC_0060.JPG "")
 
 ## License
 
